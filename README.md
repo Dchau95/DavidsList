@@ -9,18 +9,9 @@ their university email address, thus creating a safe and trustworthy marketplace
 landlords and students.
 DavidsList provides the following features:
 
-*Guest users can browse the website, but cannot post listings or message landlords.
-*Everybody can create an account on DavidsList and everybody can read the Terms
-and Conditions and the Privacy Policy.
-*Everybody is able to use search for listings. Search results may be filtered based on
-number of bedrooms, price, and distance to campus.
-*Registered users can log in with their account info. Once logged in, they can create,
-edit, and delete listings. In creating a listing at least one picture of the listing must be
-uploaded, accompanied by a title, price, and address. Landlords are given the option
-to show only an approximate address on the website; this means that only the ZIP
-code of the listing will be shown to other users.
-*Registered users seeking an apartment can communicate with the landlord of a
-listing by clicking on the “Contact” button on the Listing Detail page of a listing.
-Registered users can view and reply to messages through the All Messages page
-under My Account.
-*Administrators can remove users and listings via Workbench.
+* Guest users can browse the website, but cannot post listings or message landlords.
+* Everybody can create an account on DavidsList and everybody can read the Terms and Conditions and the Privacy Policy.
+* Everybody is able to use search for listings. Search results may be filtered based on number of bedrooms, price, and distance to campus.
+* Registered users can log in with their account info. Once logged in, they can create, edit, and delete listings. In creating a listing at least one picture of the listing must be uploaded, accompanied by a title, price, and address. Landlords are given the option to show only an approximate address on the website; this means that only the ZIP code of the listing will be shown to other users.
+* Registered users seeking an apartment can communicate with the landlord of a listing by clicking on the “Contact” button on the Listing Detail page of a listing. Registered users can view and reply to messages through the All Messages page under My Account.
+* Administrators can remove users and listings via Workbench.
