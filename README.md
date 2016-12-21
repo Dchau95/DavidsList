@@ -1,5 +1,6 @@
 # DavidsList
 Product Summary
+
 We present DavidsList, an apartment rental web service for students. With
 property taxes increasing every year, many Bay Area homeowners would like to rent out
 their homes and apartments (or simply a bedroom) to students. However, it is difficult for
