@@ -7,8 +7,8 @@
  */
 class ListingImage implements JsonSerializable{
 	private $listingID;
-	private $imageThumbnail;
 	private $image;
+	private $imageThumbnail;
 
 	public function __construct() {
 
